@@ -1,0 +1,8 @@
+List of funcitons:
+printprompt()- this will print the directory name on the command line
+readCommand()- this will read the command form the command line
+parsePath()-this will build an array containing the directories in PATH
+parseCommand()-this will determine the command name and construct the parameter lsit
+lookUpPath()-this will search the directories to find the command files and give a full path name
+main()-this will create the shell, execute child and parent processes that will run a command line. The command line will allow for commands to be read and exectued.
+For the makefile it should run make all, that will create the exectuable file. Then make clean will clear the exectuable file. The exectuable file created will be called shell.

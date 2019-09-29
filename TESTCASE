@@ -1,0 +1,7 @@
+Tests: 
+I tested certain commands.
+Commands:
+whoami, in my case it returned test1 which is correct
+ls, returned all the files in my directory.
+exit, terminated the shell
+pwd, /home/test1/Desktop/shell in my case this is correct
